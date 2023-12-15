@@ -97,7 +97,7 @@ func getSum(fileName string) int {
 
 func main() {
 	//input := "Game 112: 3 blue, 4 red; 1 red, 2 green, 6 blue; 2 green"
-	fmt.Println(getSum("input.txt"))
-	fmt.Println(getSum("input-2.txt"))
-	fmt.Println(getSum("test.txt"))
+	fmt.Println(getSum("./day-2/input.txt"))
+	// fmt.Println(getSum("input-2.txt"))
+	// fmt.Println(getSum("test.txt"))
 }
